@@ -5,17 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folonene&label=Profile%20views&color=0e75b6&style=flat" alt="folonene" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folonene" alt="folonene" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/iam_ladex" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ladex?logo=twitter&style=for-the-badge" alt="iam_ladex" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Unity**
+- 🌱 I’m currently learning *React Native, Unity*
 
-- 💬 Ask me about **C#,.NET, React.js**
+- 💬 Ask me about *C#,.NET, React.js*
 
-- 📫 How to reach me **olaideadebanjo@gmail.com**
+- 📫 How to reach me *olaideadebanjo@gmail.com*
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/olaide-adebanjo-3579b5166/](https://www.linkedin.com/in/olaide-adebanjo-3579b5166/)
 
-- ⚡ Fun fact **I am Jovial.**
+- ⚡ Fun fact *I am Jovial.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folonene&show_icons=true&locale=en&layout=compact" alt="folonene" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folonene&show_icons=true&locale=en" alt="folonene" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=folonene&" alt="folonene" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=folonene&show_icons=true&locale=en" alt="folonene" /></p>
