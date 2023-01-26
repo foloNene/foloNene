@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adebanjo Olaide</h1>
 <h3 align="center">A passionate Software Engineer from Lagos,Nigeria</h3>
 
-<img align="right" alt="coding" width="600" src="https://cdn.dribbble.com/users/2657768/screenshots/15142663/media/68a68b784474d747eb0beec7106f393e.png">
+<img align="right" alt="coding" width="1000" src="https://cdn.dribbble.com/users/2657768/screenshots/15142663/media/68a68b784474d747eb0beec7106f393e.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folonene&label=Profile%20views&color=0e75b6&style=flat" alt="folonene" /> </p>
 
